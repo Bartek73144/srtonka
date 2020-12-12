@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    background-color: rgb(19,240,121); 
+    padding: 30px;
+}
+
+h1 {
+  color: rgb(244,244,251);
+}
+
+.h1glowna {
+  color:yellow;	
+}
+
+/* unvisited link */
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(4,4,123);
+}
+
+/* visited link */
+a:visited {
+
+}
+
+/* mouse over link */
+a:hover {
+ color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
